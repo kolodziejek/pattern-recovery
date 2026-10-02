@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper when using this numerical experiment code."
+title: "Pattern recovery: numerical experiments"
+type: software
+license: MIT
+authors:
+  - family-names: "Graczyk"
+    given-names: "Piotr"
+  - family-names: "Kołodziejek"
+    given-names: "Bartosz"
+  - family-names: "Nakashima"
+    given-names: "Hideto"
+  - family-names: "Wilczyński"
+    given-names: "Maciej"
+preferred-citation:
+  type: article
+  title: "From Graphical Lasso to Atomic Norms: High-Dimensional Pattern Recovery"
+  authors:
+    - family-names: "Graczyk"
+      given-names: "Piotr"
+    - family-names: "Kołodziejek"
+      given-names: "Bartosz"
+    - family-names: "Nakashima"
+      given-names: "Hideto"
+    - family-names: "Wilczyński"
+      given-names: "Maciej"
+  year: 2025
+  journal: "arXiv"
+  doi: "10.48550/arXiv.2506.13353"
+  url: "https://arxiv.org/abs/2506.13353"
